@@ -121,18 +121,6 @@ The dashboard suite helps stakeholders make **data-driven decisions** for pricin
 
 ---
 
-## 📁 Project Structure  
-📦 Hotel-Revenue-Analysis
-┣ 📂 images
-┃ ┣ dashboard1.png
-┃ ┣ dashboard2.png
-┃ ┣ dashboard3.png
-┃ ┗ dashboard4.png
-┣ 📄 Hotel_Dashboard.pbix
-┣ 📄 README.md
-
-
----
 
 ## 🚀 How to Use  
 
